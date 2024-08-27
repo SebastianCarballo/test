@@ -27,3 +27,4 @@ Agregar soporte para dispositivos de seguimiento de energía
 Crear una versión móvil de la aplicación
 Nueva característica: Integrar con servicios de transporte público sostenible
 Espero que esta versión te guste! Recuerda que es solo un ejemplo, así que no te preocupes si no tiene sentido en tu proyecto.
+dasdasdas
